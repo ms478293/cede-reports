@@ -1,0 +1,27 @@
+Country,Instrument,2024,2025,2026,2027,2028,2029,2030
+Ghana,Eurobonds,0.0,0.0,2.5,0.5,4.2,0.0,2.0
+Ghana,External FX Debt,1.2,1.8,2.1,1.5,1.8,2.2,1.5
+Ghana,Local Currency,3.5,4.2,5.1,4.8,5.5,4.2,4.8
+Ghana,SOE Obligations,0.3,0.5,0.8,0.6,0.4,0.5,0.6
+Sri Lanka,Eurobonds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sri Lanka,External FX Debt,0.5,1.2,2.5,1.8,1.5,2.0,1.8
+Sri Lanka,Local Currency,2.8,3.5,4.2,3.8,4.5,3.2,4.0
+Sri Lanka,SOE Obligations,0.2,0.4,0.6,0.5,0.3,0.4,0.5
+Zambia,Eurobonds,0.0,0.0,0.0,1.5,0.0,0.0,2.0
+Zambia,External FX Debt,0.4,0.8,1.2,0.9,1.1,0.8,1.0
+Zambia,Local Currency,1.2,1.8,2.4,2.1,2.5,1.8,2.2
+Zambia,SOE Obligations,0.1,0.2,0.3,0.2,0.2,0.2,0.2
+Pakistan,Eurobonds,0.4,1.2,2.8,1.5,0.0,0.0,0.0
+Pakistan,External FX Debt,2.5,4.2,5.5,4.8,5.2,4.5,5.0
+Pakistan,Local Currency,8.5,12.4,15.2,14.8,16.5,12.8,14.2
+Pakistan,SOE Obligations,1.2,1.8,2.5,2.2,1.8,2.0,2.2
+Kenya,Eurobonds,0.0,2.0,0.0,0.0,0.0,2.0,0.0
+Kenya,External FX Debt,0.8,1.5,1.8,1.2,1.5,1.2,1.4
+Kenya,Local Currency,2.5,3.2,4.0,3.5,4.2,3.0,3.8
+Kenya,SOE Obligations,0.2,0.3,0.4,0.3,0.3,0.3,0.3
+Egypt,Eurobonds,0.0,0.0,0.0,5.2,0.0,0.0,3.5
+Egypt,External FX Debt,2.8,4.5,6.2,5.8,6.5,5.2,6.0
+Egypt,Local Currency,5.5,8.2,10.5,9.8,11.2,8.5,10.0
+Egypt,SOE Obligations,0.8,1.2,1.8,1.5,1.2,1.4,1.6
+All amounts in USD billion
+Source: Country debt offices, IMF DSA, Bloomberg

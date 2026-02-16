@@ -1,0 +1,13 @@
+Country,FX Reserves ($bn),Months of Imports,Short-term Debt Coverage (%),IMF ARA Metric (%),Reserve Adequacy Status
+Ghana,5.8,2.8,42%,45%,INADEQUATE
+Sri Lanka,2.5,1.9,28%,32%,CRITICAL
+Zambia,4.2,2.4,38%,40%,INADEQUATE
+Pakistan,7.5,1.3,22%,28%,CRITICAL
+Kenya,8.2,4.2,65%,72%,MARGINAL
+Egypt,35.2,3.2,48%,55%,MARGINAL
+Nigeria,32.5,5.8,85%,95%,ADEQUATE
+Threshold - Safe,>3.5,>6,>100%,>100%,-
+Threshold - Marginal,2.5-3.5,4-6,50-100%,75-100%,-
+Threshold - Critical,<2.5,<4,<50%,<75%,-
+ARA = IMF Assessing Reserve Adequacy metric
+Source: IMF, Central Bank data, CEDX Analysis

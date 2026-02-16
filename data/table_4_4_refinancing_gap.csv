@@ -1,0 +1,11 @@
+Country,Baseline Gap ($bn),Stress Gap ($bn),Gap as % Reserves,Gap as % GDP,Primary Risk Factor
+Ghana,4.2,8.5,145%,10.3%,Eurobond maturity wall
+Sri Lanka,3.8,7.2,180%,9.7%,Market access limitations
+Zambia,2.5,5.2,125%,9.1%,Commodity price exposure
+Pakistan,8.5,15.2,280%,4.5%,Current account deficit
+Kenya,2.8,5.5,85%,5.0%,Single Eurobond maturity
+Egypt,6.5,12.8,95%,2.7%,Large FX debt stock
+Nigeria,3.2,6.5,45%,1.4%,Oil price sensitivity
+Stress Scenario Assumptions: +300bps spreads, -15% FX depreciation, -1.5pp growth
+Gap = Financing Need - Available Resources (Reserves + Market Access + IFI Support)
+Source: CEDX Refinancing Gap Model

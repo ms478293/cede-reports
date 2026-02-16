@@ -1,0 +1,12 @@
+Risk Category,Specific Risk,Likelihood,Impact,Mitigation Strategy,Owner,Early Warning Indicator
+Market,Spread widening >500bps,High,High,Pre-emptive liability management,Debt Management Office,EMBI spread trend
+Market,Auction failure,Moderate,Severe,Cash buffer maintenance,Finance Minister,Bid-to-cover ratio
+Liquidity,Reserve depletion,High,Severe,IMF program engagement,Central Bank,Months of imports <3
+Liquidity,FX shortage for debt service,High,High,Export diversification,Central Bank,Trade balance trend
+Political,Fiscal policy reversal,Moderate,High,Independent fiscal council,Finance Minister,Deficit projections
+Political,IMF program derailment,Moderate,Severe,Strong ownership,Finance Minister,Program review outcomes
+Operational,Debt data gaps,Moderate,Moderate,Transparency reforms,Debt Management Office,Reporting timeliness
+External,Commodity price shock,Moderate,High,Commodity hedging,Central Bank,Price index trends
+External,Global risk-off,High,High,Pre-emptive funding,Finance Minister,VIX, US rates
+Structural,SOE contingent liabilities,High,High,SOE reform program,Finance Minister,SOE financial reports
+Source: CEDX Risk Assessment Framework
